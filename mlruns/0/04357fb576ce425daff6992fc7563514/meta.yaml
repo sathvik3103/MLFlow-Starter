@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/04357fb576ce425daff6992fc7563514/artifacts
+end_time: 1733015236134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04357fb576ce425daff6992fc7563514
+run_name: sassy-cow-953
+run_uuid: 04357fb576ce425daff6992fc7563514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733015091154
+status: 3
+tags: []
+user_id: sathvik

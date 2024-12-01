@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/572004607600740457/c56c8d0df51241f7a3993c9d01493819/artifacts
+end_time: 1732950893913
+entry_point_name: ''
+experiment_id: '572004607600740457'
+lifecycle_stage: active
+run_id: c56c8d0df51241f7a3993c9d01493819
+run_name: spiffy-owl-158
+run_uuid: c56c8d0df51241f7a3993c9d01493819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732950893879
+status: 3
+tags: []
+user_id: sathvik

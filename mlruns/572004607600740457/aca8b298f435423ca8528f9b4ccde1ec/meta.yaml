@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/572004607600740457/aca8b298f435423ca8528f9b4ccde1ec/artifacts
+end_time: 1732950713728
+entry_point_name: ''
+experiment_id: '572004607600740457'
+lifecycle_stage: active
+run_id: aca8b298f435423ca8528f9b4ccde1ec
+run_name: wise-slug-885
+run_uuid: aca8b298f435423ca8528f9b4ccde1ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732950713707
+status: 3
+tags: []
+user_id: sathvik
